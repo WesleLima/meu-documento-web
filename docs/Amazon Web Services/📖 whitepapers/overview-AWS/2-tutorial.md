@@ -1,6 +1,6 @@
 ---
 title: "2 - Tutorial"
-sidebar_position: 1
+sidebar_position: 7
 ---
 
 ### Identity and Access Management
