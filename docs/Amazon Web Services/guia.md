@@ -13,7 +13,7 @@ sidebar_position: 1
 
 ❗ **Capacidade de um candidato de concluir as seguintes tarefas:**
 
-- Explicar o valor da nuvem AWS.
+- Explicar o valor da n uvem AWS.
 - Compreender o Modelo de responsabilidade compartilhada da AWS.
 - Compreender as práticas recomendadas de segurança.
 - Compreender as práticas de cobrança, dos aspectos econômicos e de custos da
