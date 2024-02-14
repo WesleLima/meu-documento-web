@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeu_documento_web=self.webpackChunkmeu_documento_web||[]).push([[7160],{7712:e=>{e.exports=JSON.parse('{"permalink":"/meu-documento-web/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

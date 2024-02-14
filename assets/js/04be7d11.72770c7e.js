@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeu_documento_web=self.webpackChunkmeu_documento_web||[]).push([[9249],{9024:e=>{e.exports=JSON.parse('{"permalink":"/meu-documento-web/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

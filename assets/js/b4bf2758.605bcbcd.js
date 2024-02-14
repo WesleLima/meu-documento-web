@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeu_documento_web=self.webpackChunkmeu_documento_web||[]).push([[8236],{6512:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/meu-documento-web/blog/tags/hola","allTagsPath":"/meu-documento-web/blog/tags","count":1,"unlisted":false}')}}]);
