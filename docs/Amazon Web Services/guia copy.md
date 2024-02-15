@@ -1,5 +1,5 @@
 ---
-title: "🔒 Segurança"
+title: "🧾 segurança"
 sidebar_position: 1
 ---
 
