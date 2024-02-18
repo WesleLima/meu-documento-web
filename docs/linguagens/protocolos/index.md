@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 ## Conceito de Webservices
-![alt text](../../img/momento.gif)
+![alt text](../../../img/momento.gif)
 💭 Imagine! Quando criamos um site em PHP usando HTML, ele é compreensivel para humanos, pois o browser processa as páginas e as tornam legíveis. Os Webservices, por sua vez são legíveis por máquinas ou por outros sistemas. 
 
 💭 Vamos imaginar o seguinte: que conseguimos construir softwares na forma de componentes ou peças... dessa forma, vamos agregando e integrando cada uma dessas peças de forma que possamos usar só aquilo que é apropriado.
@@ -30,7 +30,7 @@ De forma resumida, são como pequenos blocos de construção que, quando combina
 Em essência, o REST são pedaços de softwares que podem ser disponibilizados via HTTP e consumir através do protocolo, usando diferentes tipos de clientes, e isso traz um enroem potencial de reúso de código 
 
 ## **SOAP vs REST**
-![alt text](../../img/so-vs-re.webp)
+![alt text](../../../img/so-vs-re.webp)
 Criado pela Microsoft, em 1998, era uma solução que facilitava a integração de sistemas, mas ainda possuia alguns pontos negativos. Logo em 200, Roy Fielding publicou a sua tese de doutorado, em que ele descreveu as restrições arquiteturais do REST. Deis de antão, mas as tecnologias foram as mais utilizadas.
 
 **Principais diferenças:**
@@ -79,5 +79,3 @@ Já o **REST** faz requisições HTTP e suport diferentes formatos de arquivo.
 * Fácil de inovar via Java;
 * Comparado com SOAP a performance é melhor, consume menos recursos de processamento, código mais flefíxel etc.
 
-
-### REST

@@ -1,7 +1,8 @@
 ---
-title: Rest
-sidebar_position: 2
+title: REST
+sidebar_position: 1
 ---
+
 
 ## Representational State Transfer (REST)
 
