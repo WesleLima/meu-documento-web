@@ -79,4 +79,3 @@ Já o **REST** faz requisições HTTP e suport diferentes formatos de arquivo.
 * Comparado com SOAP a performance é melhor, consume menos recursos de processamento, código mais flefíxel etc.
 
 
-### REST
