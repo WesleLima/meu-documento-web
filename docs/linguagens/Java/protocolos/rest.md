@@ -1,5 +1,5 @@
 ---
-title: 🍃 SpringBoot
+title: Rest
 sidebar_position: 2
 ---
 
