@@ -34,13 +34,13 @@ Criado pela Microsoft, em 1998, era uma solução que facilitava a integração 
 
 **Principais diferenças:**
 
-**REST:** Representation State Tranfer ou Transferencia de estado representacional é um conjunto de princípios de arquitetura.
+**REST:** 'Representation State Tranfer' ou Transferencia de estado representacional é um conjunto de princípios de arquitetura.
 
 O modelo **REST** surgiu após o SOAP e passou a ser visto como uma alternativa mais rápida nos casos baseados em web. REST é um conjunto de diretrizes que oferece uma implementação flexível.
 
 As APIs **REST** são leves e ideais para contextos mais modernos, como a Internet das Coisas (IoT), desenvolvimento de aplicações mobile e [serverless](https://www.redhat.com/pt-br/topics/cloud-native-apps/what-is-serverless). Os serviços web SOAP oferecem segurança integrada e transações em conformidade que atendem a muitas necessidades empresariais, mas que também os deixam mais pesados. Além disso, muitas APIs públicas, como a do Google Maps, seguem as diretrizes REST.
 
-**SOAP:** Simple Object Acces Protocol ou "Protocolo de acesso a objetos simples" é um protocolo oficial mantido pela W3C.
+**SOAP:** 'Simple Object Acces Protocol' ou "Protocolo de acesso a objetos simples" é um protocolo oficial mantido pela W3C.
  
 Em outras palavras, o **SOAP** é um protocolo padrão projetado originalmente para possibilitar a comunicação entre aplicações desenvolvidas em diferentes linguagens e plataformas. Como se trata de um protocolo, ele impõe regras integradas de carregamento das páginas. No entanto, esses padrões também proporcionam conformidade integrada, fazendo com que SOAP seja uma opção recomendada para casos empresariais. Isso inclui segurança, atomicidade, consistência, isolamento e durabilidade (ACID), os quais são um conjunto de propriedades para assegurar transações confiáveis de bancos de dados. 
 
