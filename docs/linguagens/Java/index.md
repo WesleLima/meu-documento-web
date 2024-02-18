@@ -1,6 +1,6 @@
 ---
 title: ☕ Java
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Inicio
