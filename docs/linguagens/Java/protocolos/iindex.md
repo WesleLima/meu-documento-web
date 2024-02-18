@@ -1,8 +1,7 @@
 ---
-title: 💡 Conceitos
+title: 🧑🏾‍🏫 Conceito
 sidebar_position: 1
 ---
-
 ## Conceito de Webservices
 ![Momento](../../../img/momento.gif)
 
