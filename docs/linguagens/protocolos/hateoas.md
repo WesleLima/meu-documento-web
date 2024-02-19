@@ -14,3 +14,9 @@ Em prática, a API provê as informações que os consumers ou clients irão pre
 
 A mesma ideia acima se aplica a uma API.
 💭 Imagine que recuperamos as informações de uma pessoa no servidor. Junto com os dados, a API e me retorna também links que me possibilitam ir para o próximo para o próprio recurso, ir para uma nova página, ir para a atualização desse registro, ir para a deleção desse registro, etc.
+
+
+✨ Links úteis:
+1. **Restcookbook:** http://restcookbook.com/Basics/hateoas/
+2. **Nordic APIS:** https://nordicapis.com/tools-to-make-hateoas-compliance-easier/
+3. **Semeru:** http://www.semeru.com.br/blog/en/
